@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                Nanacone Worldt
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,10 +29,10 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:              조금씩 꾸준히가 나를 바꾼다
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Android][Programmer][Kotlin][Java]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -55,6 +55,8 @@ menu:
     url:               /docs/
   - title:             About
     url:               /about/
+  - title:             About Android
+    url                /About Android
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
